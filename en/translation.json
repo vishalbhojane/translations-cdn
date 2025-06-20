@@ -1,11 +1,54 @@
 {
   "translation": {
-    "players": "Players",
-    "winner": "Winner",
-    "moves": "Moves",
-    "prizePool": "Prize Pool",
-    "entryFee": "Entry Fee",
-    "free": "Free",
-    "practiceGame": "Practice Game"
+    "settings": {
+      "title": "Settings",
+      "language": "Language"
+    },
+    "filters": {
+      "all": "All",
+      "tournament": "Tournament",
+      "free": "Free"
+    },
+    "cashGameCard": {
+      "players": "Players",
+      "winner": "Winner",
+      "moves": "Moves",
+      "prizePool": "Prize Pool",
+      "entryFee": "Entry Fee",
+      "free": "Free",
+      "practiceGame": "Practice Game",
+      "rank": "Rank"
+    },
+    "topNavigation": {
+      "addCash": "Add Cash"
+    },
+    "leftNavigation": {
+      "userName": "User Name",
+      "myAccount": "My Account",
+      "withdrawals": "Withdrawals",
+      "transactions": "Transactions",
+      "addCashLimits": "Add Cash Limits",
+      "bonusCash": "Bonus Cash",
+      "helpAndSupport": "Help & Support",
+      "termsOfService": "Terms of Service",
+      "responsiblePlay": "Responsible Play",
+      "howToPlay": "How to Play",
+      "promotions": "Promotions",
+      "settings": "Settings",
+      "logout": "Logout"
+    },
+    "bottomBar": {
+      "home": "Home",
+      "promotions": "Promotions",
+      "refer & earn": "Refer & Earn",
+      "my11circle": "My11Circle",
+      "learnPoker": "Learn Poker",
+      "poker": "Poker",
+      "rummy": "Rummy"
+    },
+    "headerTooltips": {
+      "specialOfferForYou": "Special Offer for you!",
+      "learnHowToPlay": "Learn How to Play Wowzy"
+    }
   }
 }

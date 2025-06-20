@@ -1,11 +1,54 @@
 {
   "translation": {
-    "players": "खिलाड़ी",
-    "winner": "विजेता",
-    "moves": "चालें",
-    "prizePool": "इनाम राशि",
-    "entryFee": "प्रवेश शुल्क",
-    "free": "मुफ्त",
-    "practiceGame": "अभ्यास खेल"
+    "settings": {
+      "title": "सेटिंग्स",
+      "language": "भाषा"
+    },
+    "filters": {
+      "all": "सभी",
+      "tournament": "टूर्नामेंट",
+      "free": "मुफ्त"
+    },
+    "cashGameCard": {
+      "players": "खिलाड़ी",
+      "winner": "विजेता",
+      "moves": "चालें",
+      "prizePool": "इनाम राशि",
+      "entryFee": "प्रवेश शुल्क",
+      "free": "मुफ्त",
+      "practiceGame": "अभ्यास खेल",
+      "rank": "श्रेणी"
+    },
+    "topNavigation": {
+      "addCash": "जमा करें"
+    },
+    "leftNavigation": {
+      "userName": "उपयोगकर्ता नाम",
+      "myAccount": "मेरा खाता",
+      "withdrawals": "निकासी",
+      "transactions": "लेनदेन",
+      "addCashLimits": "जमा करें सीमाएं",
+      "bonusCash": "बोनस कैश",
+      "helpAndSupport": "सहायता और समर्थन",
+      "termsOfService": "सेवाएं की शर्तें",
+      "responsiblePlay": "ज़िम्मेदार खेल",
+      "howToPlay": "कैसे खेलें",
+      "promotions": "प्रमोशन",
+      "settings": "सेटिंग्स",
+      "logout": "लॉग आउट"
+    },
+    "bottomBar": {
+      "home": "होम",
+      "promotions": "प्रमोशन",
+      "refer & earn": "रेफर और इंकम",
+      "my11circle": "मेरा 11 सर्कल",
+      "learnPoker": "पॉकर सीखें",
+      "poker": "पॉकर",
+      "rummy": "रुमी"
+    },
+    "headerTooltips": {
+      "specialOfferForYou": "आपके लिए विशेष ऑफर!",
+      "learnHowToPlay": "जानें कैसे खेलें वॉजी"
+    }
   }
 }

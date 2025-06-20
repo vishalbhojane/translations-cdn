@@ -1,0 +1,54 @@
+{
+  "translation": {
+    "settings": {
+      "title": "அமைப்புகள்",
+      "language": "மொழி"
+    },
+    "filters": {
+      "all": "அனைத்து",
+      "tournament": "தோதாளம்",
+      "free": "இலவசம்"
+    },
+    "cashGameCard": {
+      "players": "பயனர்கள்",
+      "winner": "வெயர்வர்",
+      "moves": "நடப்புகள்",
+      "prizePool": "பரிந்துரை பலகை",
+      "entryFee": "பரிந்துரை பலகை",
+      "free": "இலவசம்",
+      "practiceGame": "பயிற்சி புத்தம்",
+      "rank": "வரிசை"
+    },
+    "topNavigation": {
+      "addCash": "புத்தம் சேர்க்கவும்"
+    },
+    "leftNavigation": {
+      "userName": "பயனர் பெயர்",
+      "myAccount": "எனது கணக்கு",
+      "withdrawals": "வெளியேறுகள்",
+      "transactions": "பணம் செலுத்துகள்",
+      "addCashLimits": "கணக்கு வரம்புகள் சேர்க்கவும்",
+      "bonusCash": "புத்தம் கணக்கு",
+      "helpAndSupport": "உதவி மற்றும் ஆதரவு",
+      "termsOfService": "சேவை நிபந்தனைகள்",
+      "responsiblePlay": "உறுதியான புத்தம்",
+      "howToPlay": "புத்தம் எப்படி செய்யுங்கள்",
+      "promotions": "புத்தம் பரிந்துரைகள்",
+      "settings": "அமைப்புகள்",
+      "logout": "வெளியேறு"
+    },
+    "bottomBar": {
+      "home": "முகப்பு",
+      "promotions": "பரிந்துரைகள்",
+      "refer & earn": "பரிந்துரை மற்றும் பெறுக",
+      "my11circle": "My11Circle",
+      "learnPoker": "புத்தம் கற்றல்",
+      "poker": "புத்தம்",
+      "rummy": "ருமி"
+    },
+    "headerTooltips": {
+      "specialOfferForYou": "உங்களுக்கான சிறப்பு செயல்பாடு!",
+      "learnHowToPlay": "வாய்ச்செய்யுங்கள் எப்படி புத்தம் செய்யுங்கள்"
+    }
+  }
+}
