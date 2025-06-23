@@ -5,50 +5,50 @@
       "language": "மொழி"
     },
     "filters": {
-      "all": "அனைத்து",
-      "tournament": "தோதாளம்",
+      "all": "அனைத்தும்",
+      "tournament": "டூர்னமெண்ட்",
       "free": "இலவசம்"
     },
     "cashGameCard": {
-      "players": "பயனர்கள்",
-      "winner": "வெயர்வர்",
-      "moves": "நடப்புகள்",
-      "prizePool": "பரிந்துரை பலகை",
-      "entryFee": "பரிந்துரை பலகை",
+      "players": "வீரர்கள்",
+      "winner": "வெற்றியாளர்",
+      "moves": "நகர்வுகள்",
+      "prizePool": "பரிசுத் தொகை",
+      "entryFee": "நுழைவுக் கட்டணம்",
       "free": "இலவசம்",
-      "practiceGame": "பயிற்சி புத்தம்",
-      "rank": "வரிசை"
+      "practiceGame": "பயிற்சி ஆட்டம்",
+      "rank": "தரவரிசை"
     },
     "topNavigation": {
-      "addCash": "புத்தம் சேர்க்கவும்"
+      "addCash": "பணம் சேர்க்க"
     },
     "leftNavigation": {
       "userName": "பயனர் பெயர்",
       "myAccount": "எனது கணக்கு",
-      "withdrawals": "வெளியேறுகள்",
-      "transactions": "பணம் செலுத்துகள்",
-      "addCashLimits": "கணக்கு வரம்புகள் சேர்க்கவும்",
-      "bonusCash": "புத்தம் கணக்கு",
-      "helpAndSupport": "உதவி மற்றும் ஆதரவு",
-      "termsOfService": "சேவை நிபந்தனைகள்",
-      "responsiblePlay": "உறுதியான புத்தம்",
-      "howToPlay": "புத்தம் எப்படி செய்யுங்கள்",
-      "promotions": "புத்தம் பரிந்துரைகள்",
+      "withdrawals": "பண பரிவர்த்தனைகள்",
+      "transactions": "பரிவர்த்தனைகள்",
+      "addCashLimits": "பண வரம்புகள்",
+      "bonusCash": "போனஸ் பணம்",
+      "helpAndSupport": "உதவி & ஆதரவு",
+      "termsOfService": "சேவை விதிமுறைகள்",
+      "responsiblePlay": "பொறுப்பான விளையாட்டு",
+      "howToPlay": "விளையாடும் முறை",
+      "promotions": "சலுகைகள்",
       "settings": "அமைப்புகள்",
       "logout": "வெளியேறு"
     },
     "bottomBar": {
       "home": "முகப்பு",
-      "promotions": "பரிந்துரைகள்",
-      "refer & earn": "பரிந்துரை மற்றும் பெறுக",
-      "my11circle": "மீ11சிரசில்",
-      "learnPoker": "புத்தம் கற்றல்",
-      "poker": "புத்தம்",
-      "rummy": "ருமி"
+      "promotions": "சலுகைகள்",
+      "refer & earn": "பரிந்துரை & சம்பாதி",
+      "my11circle": "மை11சர்கிள்",
+      "learnPoker": "போக்கர் கற்றுக்கொள்ளுங்கள்",
+      "poker": "போக்கர்",
+      "rummy": "ரம்மி"
     },
     "headerTooltips": {
-      "specialOfferForYou": "உங்களுக்கான சிறப்பு செயல்பாடு!",
-      "learnHowToPlay": "வாய்ச்செய்யுங்கள் எப்படி புத்தம் செய்யுங்கள்"
+      "specialOfferForYou": "உங்களுக்கான சிறப்பு சலுகை!",
+      "learnHowToPlay": "வௌசி எப்படி விளையாடுவது என கற்றுக்கொள்ளுங்கள்"
     }
   }
 }
