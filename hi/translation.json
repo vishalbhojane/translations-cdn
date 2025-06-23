@@ -40,11 +40,11 @@
     "bottomBar": {
       "home": "होम",
       "promotions": "प्रमोशन",
-      "refer & earn": "रेफर और इंकम",
-      "my11circle": "मेरा 11 सर्कल",
-      "learnPoker": "पॉकर सीखें",
-      "poker": "पॉकर",
-      "rummy": "रुमी"
+      "refer & earn": "देखें और कमाएँ",
+      "my11circle": "माय11सर्कल",
+      "learnPoker": "पोकर सीखें",
+      "poker": "पोकर",
+      "rummy": "रमी"
     },
     "headerTooltips": {
       "specialOfferForYou": "आपके लिए विशेष ऑफर!",
