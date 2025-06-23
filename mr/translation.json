@@ -1,0 +1,45 @@
+{
+  "translation": {
+    "settings": { "title": "सेटिंग्ज", "language": "भाषा" },
+    "filters": { "all": "सर्व", "tournament": "स्पर्धा", "free": "मोफत" },
+    "cashGameCard": {
+      "players": "खेळाडू",
+      "winner": "विजेता",
+      "moves": "डाव",
+      "prizePool": "बक्षीस रक्कम",
+      "entryFee": "प्रवेश शुल्क",
+      "free": "मोफत",
+      "practiceGame": "सराव खेळ",
+      "rank": "क्रमांक"
+    },
+    "topNavigation": { "addCash": "रक्कम जमा करा" },
+    "leftNavigation": {
+      "userName": "वापरकर्ता नाव",
+      "myAccount": "माझे खाते",
+      "withdrawals": "पैसे काढणे",
+      "transactions": "व्यवहार",
+      "addCashLimits": "रक्कम जमा करण्याची मर्यादा",
+      "bonusCash": "बोनस रक्कम",
+      "helpAndSupport": "मदत आणि सहाय्य",
+      "termsOfService": "सेवेच्या अटी",
+      "responsiblePlay": "जबाबदार खेळ",
+      "howToPlay": "कसे खेळावे",
+      "promotions": "प्रमोशन्स",
+      "settings": "सेटिंग्ज",
+      "logout": "बाहेर पडा"
+    },
+    "bottomBar": {
+      "home": "होम",
+      "promotions": "प्रमोशन्स",
+      "refer & earn": "शेअर करा आणि कमवा",
+      "my11circle": "माय11सर्कल",
+      "learnPoker": "पोकर शिका",
+      "poker": "पोकर",
+      "rummy": "रम्मी"
+    },
+    "headerTooltips": {
+      "specialOfferForYou": "तुमच्यासाठी खास ऑफर!",
+      "learnHowToPlay": "वॉवजी कसे खेळावे ते शिका"
+    }
+  }
+}
