@@ -12,7 +12,7 @@
       "practiceGame": "सराव खेळ",
       "rank": "क्रमांक"
     },
-    "topNavigation": { "addCash": "रक्कम जमा करा" },
+    "topNavigation": { "addCash": "जमा करा" },
     "leftNavigation": {
       "userName": "वापरकर्ता नाव",
       "myAccount": "माझे खाते",
@@ -31,7 +31,7 @@
     "bottomBar": {
       "home": "होम",
       "promotions": "प्रमोशन्स",
-      "refer & earn": "शेअर करा आणि कमवा",
+      "refer & earn": "शेअर करा",
       "my11circle": "माय11सर्कल",
       "learnPoker": "पोकर शिका",
       "poker": "पोकर",
