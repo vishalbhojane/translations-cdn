@@ -123,7 +123,9 @@
       },
       "lobby": "Lobby",
       "exceedingExtraTime": "Exceeding extra time leads to removal from the game",
-      "extraTimeLeft": "Extra time left:"
+      "extraTimeLeft": "Extra time left:",
+      "pleaseWait": "Please wait",
+      "finishingGame": "Finishing the game"
     }
   }
 }
