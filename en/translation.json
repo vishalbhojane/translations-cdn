@@ -52,7 +52,12 @@
     },
     "common":{
       "players": "Players",
-      "instantCash": "Instant Cash"
+      "instantCash": "Instant Cash",
+      "no": "No",
+      "yes": "Yes",
+      "you": "You",
+      "lobby": "Lobby",
+      "cancel": "Cancel"
     },
     "leaderboard":{
       "defaultLeaderboardName": "Remix Leaderboard"
@@ -121,11 +126,40 @@
         "weak": "Weak",
         "noConnection": "No Connection"
       },
-      "lobby": "Lobby",
       "exceedingExtraTime": "Exceeding extra time leads to removal from the game",
       "extraTimeLeft": "Extra time left:",
       "pleaseWait": "Please wait",
-      "finishingGame": "Finishing the game"
+      "finishingGame": "Finishing the game",
+      "leaveGame": "Leave Game",
+      "leaveGameDescription": "Leaving now will reset your score to 0 and you cannot rejoin the game!"
+    },
+    "resultScreen":{
+      "youWon": "You Won",
+      "keepTrying": "Keep Trying",
+      "rank": "Rank",
+      "score": "Score",
+      "winnings": "Winnings",
+      "scoreMoreWinMore": "Score More, Win More",
+      "left": "Left",
+      "nextGameStartsIn": "Next game starts in",
+      "ranks":{
+        "1st": "1st",
+        "2nd": "2nd",
+        "3rd": "3rd"
+      },
+      "playAgain": "Play Again",
+      "playAgainForFree": "Play Again for Free",
+      "viewLeaderboard": "View Leaderboard",
+      "nuj":{
+        "instantMatchWin":{
+          "title": "Instant Match win",
+          "description": "Credited instantly in your wallet after you win"
+        },
+        "rankPrize":{
+          "title": "Rank Prize",
+          "description": "Credited after the leaderboard ends based on your final rank, which may vary after the final results."
+        }
+      }
     }
   }
 }

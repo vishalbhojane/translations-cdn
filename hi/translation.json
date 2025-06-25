@@ -52,7 +52,12 @@
     },
     "common": {
       "players": "खिलाड़ी",
-      "instantCash": "तत्काल कैश"
+      "instantCash": "तत्काल कैश",
+      "no": "नहीं",
+      "yes": "हाँ",
+      "you": "आप",
+      "lobby": "लॉबी",
+      "cancel": "रद्द करें"
     },
     "leaderboard": {
       "defaultLeaderboardName": "रीमिक्स लीडरबोर्ड"
@@ -121,11 +126,40 @@
         "weak": "कम",
         "noConnection": "कोई कनेक्शन नहीं"
       },
-      "lobby": "लॉबी",
       "exceedingExtraTime": "अतिरिक्त समय से बाहर जाने के कारण खेल समाप्त हो जाता है",
       "extraTimeLeft": "अतिरिक्त समय बाकी:",
       "pleaseWait": "कृपया प्रतीक्षा करें",
-      "finishingGame": "खेल समाप्त हो रहा है"
+      "finishingGame": "खेल समाप्त हो रहा है",
+      "leaveGame": "खेल छोड़ें",
+      "leaveGameDescription": "अगर आप अभी बाहर निकलते हैं तो खेल और प्रवेश शुल्क खो देंगे!"
+    },
+    "resultScreen":{
+      "youWon": "आप जीत गए",
+      "keepTrying": "बारी बारी से प्रयास करें",
+      "rank": "रैंक",
+      "score": "स्कोर",
+      "winnings": "जीत",
+      "scoreMoreWinMore": "अधिक स्कोर, अधिक जीतें",
+      "left": "छोड़ा गया",
+      "nextGameStartsIn": "अगला खेल शुरू होगा",
+      "ranks":{
+        "1st": "1 स्थान",
+        "2nd": "2 स्थान",
+        "3rd": "3 स्थान"
+      },
+      "playAgain": "खेल दोबारा खेलें",
+      "playAgainForFree": "मुफ्त से खेल दोबारा खेलें",
+      "viewLeaderboard": "लीडरबोर्ड देखें",
+      "nuj":{
+        "instantMatchWin":{
+          "title": "तत्काल मैच जीत",
+          "description": "जीतने के बाद तत्काल आपके वॉलेट में जमा किया जाता है"
+        },
+        "rankPrize":{
+          "title": "रैंक पुरस्कार",
+          "description": "जीतने के बाद अंतिम रैंक के आधार पर जमा किया जाता है, जो अंतिम परिणामों के बाद भिन्न हो सकता है।"
+        }
+      }
     }
   }
 }
