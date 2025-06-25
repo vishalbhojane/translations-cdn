@@ -49,6 +49,81 @@
     "headerTooltips": {
       "specialOfferForYou": "Special Offer for you!",
       "learnHowToPlay": "Learn How to Play Wowzy"
+    },
+    "common":{
+      "players": "Players",
+      "instantCash": "Instant Cash"
+    },
+    "leaderboard":{
+      "defaultLeaderboardName": "Remix Leaderboard"
+    },
+    "matchmakingScreen":{
+      "prizeLabel": "Prize Pool",
+      "prizeLabelLeaderboard": "Win & Get Instant Cash",
+      "searchingForOpponent": "Searching for Opponent..",
+      "reconnecting": "Reconnecting...",
+      "estimatedTime": "Estimated Time",
+      "exitMatchMakingNotice": "You will lose the game and entry fee if you exit now!",
+      "unableToFindOpponent": "Unable to find opponents",
+      "technicalIssue": "Technical Issue",
+      "InsufficientBalance": "Insufficient Balance",
+      "InsufficientBalanceMessage": "Looks like you don't have sufficient balance to play this contest. Please add cash and try again!",
+      "contactSupportMessage": "If the issue persists, contact support.",
+      "defaultError": "Something went wrong. Please try again later.",
+      "FmgMatchFailTitle": "Unable to find opponents",
+      "FmgMatchFailDescription": "Entry fee was not deducted!",
+      "KickedOutTitle": "Cancelled searching for opponents",
+      "KickedOutDescription": "Minimizing the app will cancel opponent search. Please stay in the game while searching for opponents!",
+      "RetryPopupTitle": "Weak or no internet",
+      "RetryPopupDescription": "Please move to a good network area or connect to a better internet connection for an uninterrupted experience.",
+      "Connecting": "Connecting.."
+    },
+    "gameScreen":{
+      "gameEnded": "Game Ended",
+      "gameEndedMessage": "Sorry, the game has ended and is not available anymore!",
+      "gameId": "Game ID",
+      "movesLeft": "Moves Left",
+      "oops": "Oops!",
+      "notYourTurn": "Not your turn!",
+      "extraMove": "Extra Move",
+      "points": "Points",
+      "turnSkipped": "Turn Skipped",
+      "noMovesPossible": "No Moves Possible",
+      "mover": "Mover",
+      "score": "Score",
+      "scoreHighestToWin": "Score Highest to Win",
+      "bothPlayersPickFromTheseDice": "Both players pick from these dice",
+      "yourTurn": "Your Turn",
+      "opponentsTurn": "Opponent's Turn",
+      "rerollDiceIfNotSatisfied": "Reroll dice\nif not satisfied",
+      "pickAnyDice": "Pick any Dice",
+      "oopsNotYourTurn": "Oops! Not your Turn",
+      "opponentUsedReroll": "Opponent used Reroll",
+      "rerollAvailableDice": "Reroll available dice?",
+      "canBeUsedOnlyOnce": "Can be used only once",
+      "rerollExhausted": "Reroll exhausted!",
+      "unavailableForReuse": "Unavailable for reuse",
+      "lastMoveFor": "Last move for",
+      "extraTime": "Extra Time",
+      "backToLobby": "Back to Lobby",
+      "rerollUsed": "Reroll Used!",
+      "timedOut": "Timed Out",
+      "timedOutMessage": "Game ended as you timed out and lost all your lives!",
+      "diceRolled": "Dice Rolled!",
+      "settings":{
+        "sound": "Sound",
+        "vibration": "Vibration",
+        "leaveGame": "Leave Game"
+      },
+      "wifiStrength":{
+        "strong": "Strong",
+        "medium": "Medium",
+        "weak": "Weak",
+        "noConnection": "No Connection"
+      },
+      "lobby": "Lobby",
+      "exceedingExtraTime": "Exceeding extra time leads to removal from the game",
+      "extraTimeLeft": "Extra time left:"
     }
   }
 }

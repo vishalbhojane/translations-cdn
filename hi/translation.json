@@ -14,7 +14,7 @@
       "winner": "विजेता",
       "moves": "चालें",
       "prizePool": "इनाम राशि",
-      "entryFee": "प्रवेश शुल्क",
+      "entryFee": "प्रवेश शुल्क", 
       "free": "मुफ्त",
       "practiceGame": "अभ्यास खेल",
       "rank": "श्रेणी"
@@ -49,6 +49,81 @@
     "headerTooltips": {
       "specialOfferForYou": "आपके लिए विशेष ऑफर!",
       "learnHowToPlay": "जानें कैसे खेलें वॉवजी"
+    },
+    "common": {
+      "players": "खिलाड़ी",
+      "instantCash": "तत्काल कैश"
+    },
+    "leaderboard": {
+      "defaultLeaderboardName": "रीमिक्स लीडरबोर्ड"
+    },
+    "matchmakingScreen": {
+      "prizeLabel": "इनाम राशि",
+      "prizeLabelLeaderboard": "जीतें और तत्काल कैश पाएं",
+      "searchingForOpponent": "प्रतिद्वंद्वी की खोज जारी..",
+      "reconnecting": "पुनः कनेक्ट हो रहा है...",
+      "estimatedTime": "अनुमानित समय",
+      "exitMatchMakingNotice": "अगर आप अभी बाहर निकलते हैं तो खेल और प्रवेश शुल्क खो देंगे!",
+      "unableToFindOpponent": "प्रतिद्वंद्वी नहीं मिल सका",
+      "technicalIssue": "तकनीकी समस्या",
+      "InsufficientBalance": "कैश अपर्याप्त",
+      "InsufficientBalanceMessage": "देखा जाता है कि आपके पास इस प्रतियोग के लिए पर्याप्त कैश नहीं है। कृपया कैश जमा करें और पुनः प्रयास करें!",
+      "contactSupportMessage": "अगर समस्या जारी रहती है, तो समर्थन से संपर्क करें।",
+      "defaultError": "कुछ गलत हो गया है। कृपया बाद में पुनः प्रयास करें।",
+      "FmgMatchFailTitle": "प्रतिद्वंद्वी नहीं मिल सका",
+      "FmgMatchFailDescription": "प्रवेश शुल्क नहीं संग्रहीत किया गया!",
+      "KickedOutTitle": "प्रतिद्वंद्वी की खोज रद्द कर दी गई",
+      "KickedOutDescription": "अगर आप अभी बाहर निकलते हैं तो खेल और प्रवेश शुल्क खो देंगे!",
+      "RetryPopupTitle": "कम या कोई इंटरनेट नहीं",
+      "RetryPopupDescription": "कृपया एक अच्छा नेटवर्क क्षेत्र में जाएं या एक बेहतर इंटरनेट कनेक्शन से जुड़ें इंटरनेट के बिना अनब्लॉक अनुभव करें।",
+      "Connecting": "कनेक्टिंग.."
+    },
+    "gameScreen": {
+      "gameEnded": "खेल समाप्त",
+      "gameEndedMessage": "माफ़ करें, खेल समाप्त हो गया है और अब उपलब्ध नहीं है!",
+      "gameId": "खेल आईडी",
+      "movesLeft": "शेष चालें",
+      "oops": "उफ़!",
+      "notYourTurn": "आपकी बारी नहीं!",
+      "extraMove": "अतिरिक्त चाल",
+      "points": "अंक",
+      "turnSkipped": "बारी छोड़ी गई",
+      "noMovesPossible": "कोई चाल संभव नहीं",
+      "mover": "खिलाड़ी",
+      "score": "स्कोर",
+      "scoreHighestToWin": "जीतने के लिए सबसे ज्यादा स्कोर करें",
+      "bothPlayersPickFromTheseDice": "दोनों खिलाड़ी इन पासों से चुनें",
+      "yourTurn": "आपकी बारी",
+      "opponentsTurn": "प्रतिद्वंद्वी की बारी",
+      "rerollDiceIfNotSatisfied": "संतुष्ट नहीं हैं तो\nपासे फिर से फेंकें",
+      "pickAnyDice": "कोई भी पासा चुनें",
+      "oopsNotYourTurn": "उफ़! आपकी बारी नहीं",
+      "opponentUsedReroll": "प्रतिद्वंद्वी ने रीरोल का उपयोग किया",
+      "rerollAvailableDice": "उपलब्ध पासे फिर से फेंकें?",
+      "canBeUsedOnlyOnce": "केवल एक बार उपयोग किया जा सकता है",
+      "rerollExhausted": "रीरोल समाप्त!",
+      "unavailableForReuse": "पुनः उपयोग के लिए अनुपलब्ध",
+      "lastMoveFor": "अंतिम चाल",
+      "extraTime": "अतिरिक्त समय",
+      "backToLobby": "लॉबी पर जाएं",
+      "rerollUsed": "रीरोल उपयोग किया!",
+      "timedOut": "समय समाप्त",
+      "timedOutMessage": "आपने समय समाप्त कर दिया है और सभी जीवन खो दिए हैं!",
+      "diceRolled": "पासा फेंका गया!",
+      "settings": {
+        "sound": "आवाज",
+        "vibration": "वाइब्रेशन",
+        "leaveGame": "खेल छोड़ें"
+      },
+      "wifiStrength":{
+        "strong": "शक्तिशाली",
+        "medium": "मध्यम",
+        "weak": "कम",
+        "noConnection": "कोई कनेक्शन नहीं"
+      },
+      "lobby": "लॉबी",
+      "exceedingExtraTime": "अतिरिक्त समय से बाहर जाने के कारण खेल समाप्त हो जाता है",
+      "extraTimeLeft": "अतिरिक्त समय बाकी:"
     }
   }
 }
